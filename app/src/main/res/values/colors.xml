@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#da0909</color>
+    <color name="colorPrimaryDark">#a30e09</color>
+    <color name="colorAccent">#40acff</color>
+    <color name="appcolor">#be1d15</color>
+    <color name="list_even">#AAAAAA</color>
+    <color name="list_odd">#E1E2E2</color>
+    <color name="list_selected">#455FB6</color>
+    <color name="track_color">#7aa930</color>
+    <color name="red">#FF0000</color>
+
+    <color name="form_top">#610d0d</color>
+    <color name="form_block">#e2c6c6</color>
+    <color name="form_txt">#030000</color>
+    <color name="form_color">#991313</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>

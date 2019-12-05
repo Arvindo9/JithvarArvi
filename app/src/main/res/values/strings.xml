@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Jithvar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="registration_form">Registration</string>
+    <string name="login_form">Login</string>
+    <string name="forget_pass">forget password</string>
+
+    <string name="take_pic">take pic</string>
+    <string name="submit">submit</string>
+    <string name="gps">turn on gps</string>
+    <string name="otp">login</string>
+    <string name="re_otp">re-send op</string>
+    <string name="date">Date</string>
+    <string name="search">Search</string>
+
+
+    <string name="track_">Track</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="basic_info">Basic Information</string>
+    <string name="pro_info">Professional Details</string>
+    <string name="user_id">user name or id</string>
+    <string name="phone">phone number</string>
+    <string name="otp_code">enter OTP code here</string>
+
+
+    <string name="my_profile">My Profile</string>
+    <string name="attendance">Attendance</string>
+    <string name="attendance_other">Attendance other</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="send_msg">Send Message</string>
+    <string name="inbox">Inbox</string>
+    <string name="track">Track Me</string>
+    <string name="track_1">Track</string>
+    <string name="emp_id">Enter Employee ID</string>
+
+
+    <string name="track_e">Track Enable</string>
+    <string name="track_d">Track Disable</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="google_maps_key">AIzaSyD9S6H2zsx0NVBA-_j_j3NXzZyyDvJtl9o
+    </string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalid address</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+    <string name="no_geocoder_available">no address available</string>
+    <string name="select_name">select name</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Contact">Contact</string>
+    <string name="DOB">DOB</string>
+    <string name="Address">Address</string>
+    <string name="Professional_Details">Professional Details</string>
+    <string name="Designation">Designation</string>
+    <string name="City">City</string>
+    <string name="Block">Block</string>
+    <string name="Panchayat">Panchayat</string>
+    <string name="Village">Village</string>
+    <string name="School">School</string>
+    <string name="Personal_Details">Personal Details</string>
+    <string name="no_network">internet connection not available</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_req">*First Name required</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name_req">*Last Name required</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_req">*Email required</string>
+    <string name="contact_req">*contact required</string>
+    <string name="DOB_req">*DOB required</string>
+    <string name="address_req">*Address required</string>
+    <string name="Pincode">Pincode</string>
+    <string name="pin_req">* Pincode required</string>
+    <string name="Profile_Image">Profile Image</string>
+    <string name="select_img">Select Image</string>
+    <string name="jithvar">jithvar</string>
+    <string name="jithvar_com">www.jithvar.com</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="stare_req">*State required</string>
+    <string name="register">Register</string>
+    <string name="enter_otp">Enter OTP</string>
+</resources>
